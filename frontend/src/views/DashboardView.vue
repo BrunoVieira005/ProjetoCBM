@@ -354,7 +354,7 @@ function cancelStatusUpdate() {
 
           <div class="search-group">
             <i class="fas fa-search"></i>
-            <input v-model="searchQuery" type="text" placeholder="Filtrar chamados (Ativo ou ID)" />
+            <input v-model="searchQuery" type="text" placeholder="Filtrar chamados (ID ou Título)" />
           </div>
         </div>
 
